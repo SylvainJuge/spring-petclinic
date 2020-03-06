@@ -1,4 +1,7 @@
 {
+  "build": {
+    "goal": "package -DskipTests"
+  },
   "deploy": {
     "goal": "spring-boot:run"
   }
